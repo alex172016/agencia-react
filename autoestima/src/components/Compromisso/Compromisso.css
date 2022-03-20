@@ -1,0 +1,14 @@
+.tx h2 {
+  margin-left: 15px;
+  margin-right: 15px;
+  text-align: center;
+  background-color: rgb(242, 255, 0);
+}
+.tx h4 {
+  text-align: center;
+}
+.tx p {
+  text-align: justify;
+  margin-left: 15px;
+  margin-right: 15px;
+}

@@ -1,0 +1,40 @@
+h3 {
+  margin-left: 15px;
+  margin-right: 15px;
+  text-align: center;
+  background-color: rgb(242, 255, 0);
+}
+
+p {
+  text-align: justify;
+  font-size: 14px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.row row row-cols-1 row-cols-md-3 g-1 {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.img01 {
+  float: left;
+  margin-left: 25px;
+}
+
+.img02 {
+  float: left;
+  margin-left: 25px;
+}
+.img03 {
+  float: left;
+  margin-left: 25px;
+}
+
+#img04 {
+  float: left;
+  margin-left: 150px;
+}
+#img05 {
+  float: left;
+  margin-left: 150px;
+}
